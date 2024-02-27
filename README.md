@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Bryce Sexton
 - 🌱 I’m currently learning JavaScript, Node.js, React, Python, & SQL
+- Looking to collaborate & learn more about software development
